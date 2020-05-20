@@ -1,4 +1,3 @@
-/* Name:-Vaishnavi Madhekar Roll no:-2420 cno:-c22018221438*/
 package Kruskal;
 import java.io.*;
 import java.util.*; 
