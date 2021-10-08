@@ -1,2 +1,2 @@
 # Kruskal_Algorithm
-A optimized solution for kruskal algorithm using java collection framework
+An optimized solution for kruskal algorithm using java collection framework
